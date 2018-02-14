@@ -1,0 +1,6 @@
+﻿  AddSub.cpp
+c:\users\intag\source\repos\matrixlib\matrixlib\matrixlib\addsub.cpp(12): warning C4273: 'MatrixLib::Add': inconsistent dll linkage
+  c:\users\intag\source\repos\matrixlib\matrixlib\matrixlib\matrixlib.h(12): note: see previous definition of 'Add'
+c:\users\intag\source\repos\matrixlib\matrixlib\matrixlib\addsub.cpp(60): warning C4273: 'MatrixLib::Subtract': inconsistent dll linkage
+  c:\users\intag\source\repos\matrixlib\matrixlib\matrixlib\matrixlib.h(13): note: see previous definition of 'Subtract'
+  MatrixLib.vcxproj -> C:\Users\Intag\source\repos\MatrixLib\MatrixLib\Debug\MatrixLib.dll
